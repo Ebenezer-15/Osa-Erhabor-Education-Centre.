@@ -14,7 +14,7 @@ background-size: cover;
 background-position: center center;
  height: 100vh;
 background-repeat: no-repeat;
-background-image: url("https://media.istockphoto.com/photos/happy-black-student-raising-arm-to-answer-question-while-attending-picture-id1307457391?k=20&m=1307457391&s=612x612&w=0&h=Rj2wqBSqQ6iwwIPwRrdtpO7RAjkS4JrWtA7QjvZUgyc=");
+background-image: url("https://static5.depositphotos.com/1037987/476/i/600/depositphotos_4761206-stock-photo-high-school-students-answering-question.jpg");
 display: flex;
   flex-direction: column;
 }
@@ -124,10 +124,6 @@ display: flex;
   height: auto;
   background-size: cover;
   background-position: center;
-}
-
-.sub_page .teacher_section {
-  margin: 75px 0;
 }
 
 .header_section .nav_container {
@@ -516,53 +512,6 @@ a:focus {
   color: purple;
 }
 
-.teacher_section {
-  background-image: url(../images/teacher.png);
-  background-size: 100% 100%;
-  padding: 125px 0;
-  color: #ffffff;
-}
-
-.teacher_section .box {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  text-align: center;
-  margin-top: 20px;
-}
-
-.teacher_section .box .img-box img {
-  width: 100%;
-  border-radius: 100%;
-}
-
-.teacher_section .btn-box {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-}
-
-.teacher_section .btn-box a {
-  display: inline-block;
-  padding: 10px 40px;
-  background-color: transparent;
-  color: #ffffff;
-  border: 1px solid #ffffff;
-  border-radius: 5px;
-  text-transform: uppercase;
-}
-
-.teacher_section .btn-box a:hover {
-  background-color: #ffffff;
-  color: #000000;
-}
 
 .client_section .heading_container {
   -webkit-box-pack: center;
@@ -681,13 +630,11 @@ a:focus {
   opacity: 1;
   border-radius: 100%;
   background-size: 10px;
-  /* background-color: #f15e42; */
   background-color: purple;
 }
 
 .client_section .carousel-control-prev-icon:hover,
 .client_section .carousel-control-next-icon:hover {
-  /* background-color: #fa945c; */
   background-color: whitesmoke;
 }
 
@@ -868,6 +815,5 @@ a{
 a:hover{
   color: white;
 }
-
 
 /* end footer section*/

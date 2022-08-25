@@ -54,14 +54,14 @@
       }
       
       .slider_section .detail-box h1 {
-        font-size: 3rem;
+        font-size: 1.5rem;
         font-weight: bold;
         color: #ffd291;
         text-transform: uppercase;
       }
       
       .slider_section .detail-box p {
-        padding-top: 15px;
+        padding-bottom: 50px;
         font-size: 20px;
       }
 }
@@ -131,11 +131,6 @@
         margin-bottom: 45px;
     }
 
-    .teacher_section {
-        background-size: cover;
-        background-position: center;
-        padding: 195px 0;
-    }
 }
 
 @media (max-width: 480px) {

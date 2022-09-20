@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=DynaPuff&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&family=Lora&display=swap');
 body {
   font-family: "Poppins", sans-serif;
   color: #040000;
@@ -817,3 +817,42 @@ a:hover{
 }
 
 /* end footer section*/
+
+/* faq */
+.faq{
+  font-family: 'Lora', serif;
+  line-height: 33px;
+  display: block;
+  padding: 2% 3%;
+}
+
+.faq-h1{
+  color: #1a1a1a;
+  background-color: #e2dfe2;
+  margin-top: 13px;
+  font-size: 19px;
+}
+
+.faq-p{
+  color: #9d9a9e;
+  background-color: #fbf8fb;
+  height: 45px;
+}
+.question{
+  color: purple;
+  font-weight: 700;
+  font-size: 39px;
+  border-left: 5px solid purple;
+  padding-left: 5px;
+}
+
+.answer{
+  color: #9d9a9e;
+  border-left: 5px solid #939193;
+  font-size: 39px;
+  padding-left: 5px;
+}
+
+.faq-questions{
+  border-bottom: 2px solid gray;
+}

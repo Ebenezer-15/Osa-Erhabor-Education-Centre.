@@ -823,6 +823,10 @@ a:hover{
   font-family: 'Lora', serif;
   line-height: 33px;
   display: block;
+  height: 200px;
+}
+
+#faq{
   padding: 2% 3%;
 }
 

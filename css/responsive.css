@@ -188,13 +188,10 @@
         background-position: center center ;
       }
 
-      .faq-p{
-       height:70px;
-      }
-
       .faq-h1{
         padding-bottom: 15px;
       }
+
 }
 
 @media (max-width: 400px) {}

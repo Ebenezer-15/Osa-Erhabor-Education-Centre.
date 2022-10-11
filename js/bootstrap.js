@@ -2,20 +2,6 @@
   * Bootstrap v4.3.1 (https://getbootstrap.com/)
   */
 
-// // for welcome page.
-// const main_nav = document.getElementById('welcome');
-
-// window.addEventListener("scroll", () => {
-//     var y = window.scrollY;
-//     if (y >= 100){
-//         main_nav.classList.add('disappear');
-//         return;
-//     }
-//     else{
-//         main_nav.classList.remove('disappear');
-//         // note that this is a class defined in your CSS.
-//     }
-// });
 
 (function (global, factory) {
   typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('jquery'), require('popper.js')) :

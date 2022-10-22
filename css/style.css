@@ -479,6 +479,9 @@ a:focus {
   text-align: center;
 }
 
+.about-info{
+  background-color: purple;
+}
 .about_section .box .img-box {
   margin: 55px 0;
 }

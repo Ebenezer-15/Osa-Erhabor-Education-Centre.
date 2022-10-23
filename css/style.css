@@ -481,7 +481,9 @@ a:focus {
 
 .about-info{
   background-color: purple;
+ /* width: 100%; */
 }
+
 .about_section .box .img-box {
   margin: 55px 0;
 }

@@ -192,6 +192,19 @@
         padding-bottom: 15px;
       }
 
+      .about-info{
+        height: 850px;
+      }
+
+      .btn-box a{
+        margin-left: 130px;
+      }
+
+      .i{
+        margin-bottom: 30px;  
+        padding-left: 70px;
+      }
+
 }
 
 @media (max-width: 400px) {}
